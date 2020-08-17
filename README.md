@@ -5,3 +5,5 @@ Features include>
 - A user should be able to remove a ingredients
 - A user name must be alphabets only
 - A user phone number must be numbers only
+
+Finally ingredients on pizza can be added or remove through the chatbot
